@@ -1,0 +1,6 @@
+{
+  "short_name": "Semantic Search",
+  "name": "Semantic Search App",
+  "start_url": ".",
+  "display": "standalone"
+}
